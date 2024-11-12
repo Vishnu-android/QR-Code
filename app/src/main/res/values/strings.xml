@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QRHub</string>
+    <string name="open_nav">QRHub</string>
+    <string name="close_nav">QRHub</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
